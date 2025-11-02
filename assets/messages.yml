@@ -435,7 +435,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue in *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue in %s%%s%, so this ticket is being resolved and linked as a *duplicate*.
 
         If you would like to add a vote and any extra information to the main ticket it would be appreciated.
 
