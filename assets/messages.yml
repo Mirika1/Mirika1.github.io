@@ -435,7 +435,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue at %s%%s%, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         If you would like to add a vote and any extra information to the main ticket it would be appreciated.
 
@@ -458,7 +458,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue at *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         That ticket has already been resolved as Fixed. Please check the Fix Version/s field in that ticket to see in which version this behavior was or will be fixed.
 
@@ -481,7 +481,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue in *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         That ticket has already been resolved as invalid. Please take a look at the parent ticket ([%s%|https://bugs.mojang.com/browse/%s%]) and see if an explanation is provided there in the description of the ticket or in the comments for why this issue is invalid.
 
@@ -581,7 +581,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue in *%s%* (private), so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         Since the parent ticket is marked as private, you won't be able to access it.
 
@@ -602,7 +602,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue in *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at *%s%, so this ticket is being resolved and linked as a *duplicate*.
 
         That ticket has already been resolved as invalid, which means this is a technical support issue. Please take a look at the parent ticket ([%s%|https://bugs.mojang.com/browse/%s%]) and see if a solution is provided there.
         If you need additional help to fix this problem, please contact *%help_discord%* and refer to this ticket by providing a link.
@@ -626,7 +626,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue in *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         That ticket has already been resolved as working as intended, which means this is not considered a bug and won't be fixed. Please do not leave a comment on the linked ticket.
 
@@ -649,7 +649,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue as *[%s%|https://bugs.mojang.com/browse/%s%]*, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
 
         That ticket has already been resolved as Won't Fix, which means this is considered a bug but won't be fixed. The description of that ticket or the comments might explain the rationale. Please do not leave a comment on the linked ticket.
 
@@ -672,7 +672,7 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're resolving and linking this ticket forward as a *duplicate* of *[%s%|https://bugs.mojang.com/browse/%s%]*, as that ticket contains more detailed information and/or has already been triaged by Mojang.
+        We're forward-resolving and linking this ticket as a *duplicate* of %s%, as that ticket contains more detailed information and/or has already been triaged by Mojang.
 
         If you would like to add a vote and any extra information to the main ticket it would be appreciated.
 
