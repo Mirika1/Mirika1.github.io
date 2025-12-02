@@ -433,7 +433,7 @@ messages:
       message: |-
         We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
 
-        Please only comment on the main report if you have *new* information to share. If you don't have any new information to share, add a vote to the report by pressing the "Vote for this issue" button on the right.
+        Please only comment on the linked report if you have *new* information to share. If you don't have any new information to share, add a vote to the report by pressing the "Vote for this issue" button on the right.
 
         If you haven't already, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
