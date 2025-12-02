@@ -818,26 +818,26 @@ messages:
       shortcut: inc
       category: misc
       message: |-
-This report is incomplete and does not contain enough information for us to reproduce or understand the problem.
+        This report is incomplete and does not contain enough information for us to reproduce or understand the problem.
+        
+        You are welcome to create a new report with more detailed information.
+        
+        When creating a new report, please make sure it includes the following information:
+        
+        {quote}
+        *Steps to Reproduce:*
+        1. _(Explain what needs to be done for the issue to happen)_
+        2.
+        3.
+        
+        *Observed Results:*
+        _(Briefly describe what happens)_
+        
+        *Expected Results:*
+        _(Briefly describe what should happen)_
+        {quote}
 
-You are welcome to create a new report with more detailed information.
-
-When creating a new report, please make sure it includes the following information:
-
-{quote}
-*Steps to Reproduce:*
-1. _(Explain what needs to be done for the issue to happen)_
-2.
-3.
-
-*Observed Results:*
-_(Briefly describe what happens)_
-
-*Expected Results:*
-_(Briefly describe what should happen)_
-{quote}
-
-Refer to the [*Bug Tracker Guidelines*|https://aka.ms/MCBugTrackerHelp] for more information about how to write helpful bug reports
+        Refer to the [*Bug Tracker Guidelines*|https://aka.ms/MCBugTrackerHelp] for more information about how to write helpful bug reports
 
         %quick_links%
       fillname: []
