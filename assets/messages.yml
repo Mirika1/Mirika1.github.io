@@ -431,7 +431,7 @@ messages:
       shortcut: dup
       category: duplicate
       message: |-
-We're tracking this issue at MCPE-230216, so this report is being resolved and linked as a *duplicate*.
+We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
 
 Please only comment on the main report if you have *new* information to share. If you don't have any new information to share, add a vote to the report by pressing the "Vote for this issue" button on the right.
 
