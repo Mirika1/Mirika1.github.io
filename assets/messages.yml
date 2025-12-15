@@ -431,11 +431,11 @@ messages:
       shortcut: dup
       category: duplicate
       message: |-
-        We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so I will resolve and link this report as a *duplicate*.
 
-        Please only comment on the linked report if you have *new* information to share. If you don't have any new information to share, add a vote to the report by pressing the "Vote for this issue" button on the right.
+        If you have any *new* information to share, please leave a comment on the linked report. If not, add a vote to the report by pressing the "Vote for this issue" button on the right.
 
-        If you haven't already, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
+        If you haven't already, please make sure to search [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
         %quick_links%
       fillname:
@@ -476,11 +476,11 @@ messages:
       shortcut: idup
       category: duplicate
       message: |-
-        We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so I will resolve and link this report as a *duplicate*.
 
         That report has already been resolved as invalid. Please check the description or comment section of that report for an explanation of why this issue is invalid.
 
-        If you haven't already, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
+        If you haven't already, please make sure to [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
         %quick_links%
       fillname:
@@ -575,7 +575,7 @@ messages:
       shortcut: pdup
       category: duplicate
       message: |-
-        We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so I will resolve and link this report as a *duplicate*.
 
         Since the report is marked as private, you won't be able to access it.
 
@@ -596,12 +596,12 @@ messages:
       category: duplicate
       message: |-
         *Thank you for your report!*
-        We're tracking this issue at *%s%, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at *%s%, so I will resolve and link this report as a *duplicate*.
 
-        That ticket has already been resolved as invalid, which means this is a technical support issue. Please take a look at the parent ticket ([%s%|https://bugs.mojang.com/browse/%s%]) and see if a solution is provided there.
-        If you need additional help to fix this problem, please contact *%help_discord%* and refer to this ticket by providing a link.
+        That report has already been resolved as invalid, as this is a technical support issue. Please take a look at the linked report and see if a solution is provided there.
+        If you need additional help, please contact *%help_discord%* and refer to this report by providing a link.
 
-        If you haven't already, you might like to make use of the [*+search feature+*|https://bugs.mojang.com/browse/%project_id%] to see if the issue has already been mentioned.
+        If you haven't already, please make sure to search [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
         %quick_links%
       fillname:
@@ -619,11 +619,11 @@ messages:
       shortcut: wdup
       category: duplicate
       message: |-
-        We're tracking this issue at %s%, so this report is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so I will resolve and link this report as a *duplicate*.
 
         That report has already been resolved as working as intended, which means this is not considered a bug and won't be fixed. Please do not leave a comment on the linked report.
 
-        If you haven't already, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
+        If you haven't already, please make sure to [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
         %quick_links%
       fillname:
@@ -641,11 +641,11 @@ messages:
       shortcut: wfdup
       category: duplicate
       message: |-
-        We're tracking this issue at %s%, so this ticket is being resolved and linked as a *duplicate*.
+        We're tracking this issue at %s%, so I will resolve and link this report as a *duplicate*.
 
-        That ticket has already been resolved as Won't Fix, which means this is considered a bug but won't be fixed. Please do not leave a comment on the linked report.
+        That report has already been resolved as Won't Fix, which means this is considered a bug but won't be fixed. Please do not leave a comment on the linked report.
 
-        If you haven't already, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
+        If you haven't already, please make sure to [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
 
         %quick_links%
       fillname:
@@ -665,7 +665,7 @@ messages:
       message: |-
         We're forward-resolving and linking this report as a *duplicate* of %s%, as that report contains more detailed information and/or has already been triaged by Mojang.
 
-        Please only comment on the linked report if you have *new* information to share. If you don't have any new information to share, add a vote to the report by pressing the "Vote for this issue" button on the right.
+        If you have any *new* information to share, please leave a comment on the linked report. If not, add a vote to the report by pressing the "Vote for this issue" button on the right.
 
         %quick_links%
       fillname:
@@ -717,7 +717,7 @@ messages:
       category: invalid
       message: |-
         This is a feature request or suggestion. This site is for *bug reports* only.
-        For suggestions, please visit the [Minecraft Feedback site|https://feedback.minecraft.net] or the [Minecraft Feedback Discord server|https://aka.ms/MinecraftFeedbackDiscord].
+        For feature requests and suggestions, please visit the [Minecraft Feedback site|https://feedback.minecraft.net] or the [Minecraft Feedback Discord server|https://aka.ms/MinecraftFeedbackDiscord].
 
         %quick_links%
       fillname: []
@@ -1302,14 +1302,15 @@ messages:
       shortcut: lang
       category: invalid
       message: |-
-        *Thank you for your report!*
-        Thank you for taking the time to report a bug. Unfortunately we are only able to accept bug reports in English since it is the common language used on this tracker.
+        We are only able to accept bug reports in English since it is the common language used on this tracker.
 
-        You are welcome to create a new ticket about your issue in English. You can use an online translator, if it helps.
-        However, please [*+search+*|https://bugs.mojang.com/browse/%project_id%] before writing a new bug report, as it's very likely that someone else already reported your issue before.
-        If you find an existing ticket about your issue, you can add a vote and any new information to it instead of reporting it yourself.
+        You are welcome to create a new report about your issue in English. You can use an online translator, if it helps.
 
-        Please note that this bug tracker is not for support or technical issues. If you have a payment issue or an issue with your account, please contact *[Microsoft Support|https://support.xbox.com/contact-us]*. If you need help with a technical issue (e.g. Minecraft doesn't start at all), please contact *%help_discord%*.
+        However, please [*+search+*|https://bugs.mojang.com/browse/MCPE] before creating a new report to see if the issue has already been reported. See the *[Bug Tracker Guidelines|https://aka.ms/MCBugTrackerHelp]* for tips on searching for issues.
+
+        If you find an existing report about your issue, you can add a vote and any new information to it instead of reporting it yourself.
+
+        If you have any issues with your account, please contact *[Mojang Support|https://aka.ms/Minecraft-Support]* or *[Microsoft Support|https://support.xbox.com/contact-us]*.
 
         %quick_links%
       fillname: []
